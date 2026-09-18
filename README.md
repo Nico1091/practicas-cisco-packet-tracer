@@ -41,7 +41,7 @@ git --version
 3. Clona el repositorio:
 
    ```bash
-   git clone https://github.com/Nico1091/Ejemplos_ciscoPackettarcer.git
+   git clone https://github.com/Nico1091/practicas-cisco-packet-tracer.git
    ```
 
 4. Entra en la carpeta del proyecto:
@@ -55,7 +55,7 @@ git --version
 ### Clonar una rama específica (opcional)
 
 ```bash
-git clone -b principal https://github.com/Nico1091/Ejemplos_ciscoPackettarcer.git
+git clone -b principal https://github.com/Nico1091/practicas-cisco-packet-tracer.git
 ```
 
 ## Cómo abrir los ejemplos
